@@ -1,0 +1,16 @@
+.form-header {
+    background-color: #F7F7F7;
+}
+
+.error-msg {
+    width: 95%;
+}
+
+.row {
+    margin-bottom: 2%;
+}
+
+.amount-col {
+    display: flex;
+    flex-direction: row;
+}
